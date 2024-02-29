@@ -1,0 +1,179 @@
+
+[
+    {
+      "id": 1,
+      "name": "Thunder Jolt",
+      "description": "Delivers a powerful electric shock to the opponent.",
+      "power": 50,
+      "accuracy": 100
+      
+    },
+    {
+      "id": 2,
+      "name": "Quick Attack",
+      "description": "This is an almost invisibly fast attack that is certain to strike first.",
+      "power": 60,
+      "accuracy": 90
+      
+    },
+    {
+      "id": 3,
+      "name": "Tackle",
+      "description": "A physical attack in which the pokemon charges and slams into the foe with its whole body.",
+      "power": 40,
+      "accuracy": 100
+    },
+    {
+      "id": 4,
+      "name": "Vine Whip",
+      "description": "The Pokémon uses its cruel whips to strike the opponent.",
+      "power": 45,
+      "accuracy": 100
+    },
+    {
+      "id": 5,
+      "name": "Fire Spin",
+      "description": "Fire Spin inflicts damage and traps the target for 2-5 turns, damaging the target at the end of each turn.",
+      "power": 15,
+      "accuracy": 70
+    },
+    {
+      "id": 6,
+      "name": "Slash",
+      "description": "The target is attacked with a slash of claws or blades.",
+      "power": 70,
+      "accuracy":100
+    },
+    {
+      "id": 7,
+      "name": "Hydro Pump",
+      "description": "Does 10 more damage for each Water Energy attached to this Pokémon.",
+      "power": 110,
+      "accuracy": 80
+    },
+    {
+      "id": 8,
+      "name": "Splash",
+      "description": "This attack does nothing.",
+      "power": 0,
+      "accuracy": 100
+
+    },
+    {
+      "id": 9,
+      "name": "Razor Leaf",
+      "description": "A Grass-type attack that sends sharp-edged leaves at the target.",
+      "power": 60,
+      "accuracy": 100
+    },
+    {
+      "id": 10,
+      "name": "Solar Beam",
+      "description": "A 2-turn move that blasts the foe with absorbed energy in the 2nd turn. ",
+      "power": 120,
+      "accuracy": 100
+    },
+    {
+      "id": 11,
+      "name": "Petal Dance",
+      "description": "The pokemon scatters petals to harm the opponent.",
+      "power": 120,
+      "accuracy": 100
+    },
+    {
+      "id": 12,
+      "name": "Scratch",
+      "description": "Scratches the target with sharp claws.",
+      "power": 10,
+      "accuracy": 100
+    },
+    {
+      "id": 13,
+      "name": "Ember",
+      "description": "A weak fire attack that may inflict a burn.",
+      "power": 45,
+      "accuracy": 100
+    },
+    {
+      "id": 14,
+      "name": "Water Gun",
+     "description": "The target is blasted with a forceful shot of water. Target.",
+     "power": 40,
+     "accuracy": 100
+    },
+    {
+      "id": 15,
+      "name": "Bite",
+      "description": "The foe is bitten with viciously sharp fangs. It may make the target flinch.",
+      "power": 60,
+      "accuracy": 100
+    },
+    {
+      "id": 16,
+      "name": "Thunderbolt",
+      "description": "A strong electrical attack that may also leave the foe paralyzed.",
+      "power": 90,
+      "accuracy": 100
+    },
+    {
+      "id": 17,
+      "name": "Psywave",
+      "description": "A wave of psychic powers that does a lot of damage.",
+      "power": 150,
+      "accuracy": 100
+    },
+    {
+      "id": 18,
+      "name": "Miracle Power",
+      "description": "Mystical Power inflicts damage and raises either the user's offensive stats or defensive stats.",
+      "power": 180,
+      "accuracy": 70
+    },
+    {
+      "id": 19,
+      "name": "Psychic",
+      "description": "The target is hit with a strong telekinetic force to inflict damage.",
+      "power": 90,
+      "accuracy": 100
+
+    },
+    {
+      "id": 20,
+      "name": "Psyburn",
+      "description": "The pokemon brings down a powerful psychic beam on his original position, dealing damage to enemies around each point of impact, leaving them unable to act for 1s and decreasing their Defense by 20% for 3 turns.",
+      "power": 120,
+      "accuracy": 70
+    },
+    {
+      "id": 21,
+      "name": "Aeroblast",
+      "damage": 100,
+      "description": "A vortex of air is shot at the target to inflict damage.",
+      "power": 100,
+      "accuracy": 95
+    },
+    {
+      "id": 22,
+      "name": "Recover",
+      "damage": 30,
+      "description": "Recover restores up to 50% of the user's maximum HP.",
+      "power": 0,
+      "accuracy": 100
+    },
+    {
+      "id": 23,
+      "name": "Sacred Fire",
+      "description": " The foe is razed with a mystical fire of great intensity. It may also leave a burn.",
+      "power": 120,
+      "accuracy": 95
+    },
+    {
+      "id": 24,
+      "name": "Rainbow Burn",
+      "description": "The opponent gets hit with a rainbow colored flame that does a lot of damage.",
+      "power": 100,
+      "accuracy": 80
+    }
+
+  ]
+  
