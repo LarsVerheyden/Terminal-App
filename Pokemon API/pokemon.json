@@ -16,14 +16,18 @@
         {
           "id": 1,
           "name": "Thunder Jolt",
-          "damage": 10,
-          "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+          "description": "Delivers a powerful electric shock to the opponent.",
+          "power": 50,
+          "accuracy": 100
+          
         },
         {
           "id": 2,
           "name": "Quick Attack",
-          "damage": 20,
-          "description": "This attack's damage isn't affected by Weakness or Resistance."
+          "description": "This is an almost invisibly fast attack that is certain to strike first.",
+          "power": 60,
+          "accuracy": 90
+          
         }
       ],
       "evolvesFrom": null,
@@ -45,14 +49,16 @@
         {
           "id": 3,
           "name": "Tackle",
-          "damage": 10,
-          "description": ""
+          "description": "A physical attack in which the pokemon charges and slams into the foe with its whole body.",
+          "power": 40,
+          "accuracy": 100
         },
         {
           "id": 4,
           "name": "Vine Whip",
-          "damage": 20,
-          "description": ""
+          "description": "The Pokémon uses its cruel whips to strike the opponent.",
+          "power": 45,
+          "accuracy": 100
         }
       ],
       "evolvesFrom": null,
@@ -74,14 +80,16 @@
         {
           "id": 5,
           "name": "Fire Spin",
-          "damage": 50,
-          "description": "Discard 2 Energy attached to this Pokémon."
+          "description": "Fire Spin inflicts damage and traps the target for 2-5 turns, damaging the target at the end of each turn.",
+          "power": 15,
+          "accuracy": 70
         },
         {
           "id": 6,
           "name": "Slash",
-          "damage": 60,
-          "description": ""
+          "description": "The target is attacked with a slash of claws or blades.",
+          "power": 70,
+          "accuracy":100
         }
       ],
       "evolvesFrom": "Charmeleon",
@@ -103,14 +111,17 @@
         {
           "id": 7,
           "name": "Hydro Pump",
-          "damage": 60,
-          "description": "Does 10 more damage for each Water Energy attached to this Pokémon."
+          "description": "Does 10 more damage for each Water Energy attached to this Pokémon.",
+          "power": 110,
+          "accuracy": 80
         },
         {
           "id": 8,
           "name": "Splash",
-          "damage": 20,
-          "description": "This attack does nothing."
+          "description": "This attack does nothing.",
+          "power": 0,
+          "accuracy": 100
+    
         }
       ],
       "evolvesFrom": "Wartortle",
@@ -132,14 +143,16 @@
         {
           "id": 9,
           "name": "Razor Leaf",
-          "damage": 30,
-          "description": ""
+          "description": "A Grass-type attack that sends sharp-edged leaves at the target.",
+          "power": 60,
+          "accuracy": 100
         },
         {
           "id": 4,
           "name": "Vine Whip",
-          "damage": 40,
-          "description": ""
+          "description": "The Pokémon uses its cruel whips to strike the opponent.",
+          "power": 45,
+          "accuracy": 100
         }
       ],
       "evolvesFrom": "Bulbasaur",
@@ -161,14 +174,16 @@
         {
           "id": 10,
           "name": "Solar Beam",
-          "damage": 60,
-          "description": "You may discard 2 Grass Energy attached to this Pokémon. If you do, this attack does 80 more damage."
+          "description": "A 2-turn move that blasts the foe with absorbed energy in the 2nd turn. ",
+          "power": 120,
+          "accuracy": 100
         },
         {
           "id": 11,
           "name": "Petal Dance",
-          "damage": 100,
-          "description": "This Pokémon is now Confused."
+          "description": "The pokemon scatters petals to harm the opponent.",
+          "power": 120,
+          "accuracy": 100
         }
       ],
       "evolvesFrom": "Ivysaur",
@@ -190,14 +205,16 @@
         {
           "id": 12,
           "name": "Scratch",
-          "damage": 20,
-          "description": ""
+          "description": "Scratches the target with sharp claws.",
+          "power": 10,
+          "accuracy": 100
         },
         {
           "id": 13,
           "name": "Ember",
-          "damage": 30,
-          "description": "Discard a Fire Energy attached to this Pokémon."
+          "description": "A weak fire attack that may inflict a burn.",
+          "power": 45,
+          "accuracy": 100
         }
       ],
       "evolvesFrom": "Charmander",
@@ -219,14 +236,16 @@
         {
           "id": 12,
           "name": "Scratch",
-          "damage": 10,
-          "description": ""
+          "description": "Scratches the target with sharp claws.",
+          "power": 10,
+          "accuracy": 100
         },
         {
           "id": 13,
           "name": "Ember",
-          "damage": 20,
-          "description": ""
+          "description": "A weak fire attack that may inflict a burn.",
+          "power": 45,
+          "accuracy": 100
         }
       ],
       "evolvesFrom": null,
@@ -248,14 +267,16 @@
         {
           "id": 14,
           "name": "Water Gun",
-          "damage": 30,
-          "description": ""
+         "description": "The target is blasted with a forceful shot of water. Target.",
+         "power": 40,
+         "accuracy": 100
         },
         {
           "id": 15,
           "name": "Bite",
-          "damage": 40,
-          "description": ""
+          "description": "The foe is bitten with viciously sharp fangs. It may make the target flinch.",
+          "power": 60,
+          "accuracy": 100
         }
       ],
       "evolvesFrom": "Squirtle",
@@ -277,14 +298,16 @@
         {
           "id": 3,
           "name": "Tackle",
-          "damage": 10,
-          "description": ""
+          "description": "A physical attack in which the pokemon charges and slams into the foe with its whole body.",
+          "power": 40,
+          "accuracy": 100
         },
         {
           "id": 14,
           "name": "Water Gun",
-          "damage": 20,
-          "description": ""
+         "description": "The target is blasted with a forceful shot of water. Target.",
+         "power": 40,
+         "accuracy": 100
         }
       ],
       "evolvesFrom": null,
@@ -306,14 +329,17 @@
         {
           "id": 16,
           "name": "Thunderbolt",
-          "damage": 60,
-          "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+          "description": "A strong electrical attack that may also leave the foe paralyzed.",
+          "power": 90,
+          "accuracy": 100
         },
         {
           "id": 2,
           "name": "Quick Attack",
-          "damage": 40,
-          "description": "This attack's damage isn't affected by Weakness or Resistance."
+          "description": "This is an almost invisibly fast attack that is certain to strike first.",
+          "power": 60,
+          "accuracy": 90
+          
         }
       ],
       "evolvesFrom": "Pikachu",
@@ -335,14 +361,16 @@
         {
           "id": 17,
           "name": "Psywave",
-          "damage": 40,
-          "description": "This attack does 10 damage times the amount of Energy attached to your opponent's Active Pokémon."
+          "description": "A wave of psychic powers that does a lot of damage.",
+          "power": 150,
+          "accuracy": 100
         },
         {
           "id": 18,
           "name": "Miracle Power",
-          "damage": 100,
-          "description": "Heal 30 damage from each of your Benched Pokémon."
+          "description": "Mystical Power inflicts damage and raises either the user's offensive stats or defensive stats.",
+          "power": 180,
+          "accuracy": 70
         }
       ],
       "evolvesFrom": null,
@@ -364,14 +392,17 @@
         {
           "id": 19,
           "name": "Psychic",
-          "damage": 60,
-          "description": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+          "description": "The target is hit with a strong telekinetic force to inflict damage.",
+          "power": 90,
+          "accuracy": 100
+    
         },
         {
           "id": 20,
           "name": "Psyburn",
-          "damage": 120,
-          "description": "Discard 2 Energy attached to this Pokémon."
+          "description": "The pokemon brings down a powerful psychic beam on his original position, dealing damage to enemies around each point of impact, leaving them unable to act for 1s and decreasing their Defense by 20% for 3 turns.",
+          "power": 120,
+          "accuracy": 70
         }
       ],
       "evolvesFrom": null,
@@ -393,14 +424,16 @@
         {
           "id": 21,
           "name": "Aeroblast",
-          "damage": 100,
-          "description": "Discard 2 Energy attached to this Pokémon."
+          "description": "A vortex of air is shot at the target to inflict damage.",
+          "power": 100,
+          "accuracy": 95
         },
         {
           "id": 22,
           "name": "Recover",
-          "damage": 30,
-          "description": "Heal 30 damage from this Pokémon."
+          "description": "Recover restores up to 50% of the user's maximum HP.",
+          "power": 0,
+          "accuracy": 100
         }
       ],
       "evolvesFrom": null,
@@ -422,14 +455,16 @@
         {
           "id": 23,
           "name": "Sacred Fire",
-          "damage": 80,
-          "description": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned."
+          "description": " The foe is razed with a mystical fire of great intensity. It may also leave a burn.",
+          "power": 120,
+          "accuracy": 95
         },
         {
           "id": 24,
           "name": "Rainbow Burn",
-          "damage": 150,
-          "description": "Discard a Fire Energy and a Water Energy attached to this Pokémon."
+          "description": "The opponent gets hit with a rainbow colored flame that does a lot of damage.",
+          "power": 100,
+          "accuracy": 80
         }
       ],
       "evolvesFrom": null,

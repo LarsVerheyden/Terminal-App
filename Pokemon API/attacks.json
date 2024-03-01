@@ -147,7 +147,6 @@
     {
       "id": 21,
       "name": "Aeroblast",
-      "damage": 100,
       "description": "A vortex of air is shot at the target to inflict damage.",
       "power": 100,
       "accuracy": 95
@@ -155,7 +154,6 @@
     {
       "id": 22,
       "name": "Recover",
-      "damage": 30,
       "description": "Recover restores up to 50% of the user's maximum HP.",
       "power": 0,
       "accuracy": 100
