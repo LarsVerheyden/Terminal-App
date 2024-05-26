@@ -9,7 +9,7 @@
       "imageUrl": "https://github.com/LarsVerheyden/Terminal-App/blob/main/Pokemon%20API/pokemon%20images/Pikachu.png?raw=true",
       "rarity": "common",
       "types": ["Electric"],
-      "weakness": "Fighting",
+      "weakness": "Ground",
       "resistance": "Steel",
       "attacks": [
         
